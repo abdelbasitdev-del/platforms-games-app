@@ -1,22 +1,20 @@
-<<<<<<< HEAD
-# my_first
+# 🎮 Platforms Games App
 
-A new Flutter project.
+A beautiful cross-platform games collection built with Flutter. Includes multiple mini-games and a clean About page.
 
-## Getting Started
+## ✨ Features
+- 🎯 Multiple platform games in one app
+- 🎨 Clean and modern UI
+- 📱 Works on Android, iOS, Web, Windows
+- ℹ️ About page
 
-This project is a starting point for a Flutter application.
+## 🛠️ Built With
+- Flutter & Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Run
+flutter pub get
+flutter run
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# platforms-games-app
-Mobile app  build with Flutter &amp; Dart to discover best emulators for retro platforms (psp,ps2,ps3,xbox 360) . Release APK ready.
->>>>>>> 84641bafa21fb07b568a2dd5ca8f16f12807aca8
+## 👨‍💻 Developer
+Abdelbasit Dev
+https://github.com/abdelbasitdev-del
